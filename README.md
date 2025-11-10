@@ -25,7 +25,7 @@
 <img src="media/it.png" width="20" align="center"/> 
 <br>
 <br>
-💻 ```Computer Science Student``` at  ```Nanyang Technological University``` <img src="media/sg.png" width="20" align="center"/> (NTU)  
+💻 ```Computer Science Student``` at  ```Nanyang Technological University``` <img src="media/sg.png" width="20" align="center"/>  
 🛠️ Just wanna ```have fun``` and build ```cool things```
 </td>
 </tr>
