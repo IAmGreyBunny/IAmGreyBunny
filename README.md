@@ -26,9 +26,18 @@
 <br>
 <br>
 💻 ```Computer Science Student``` at  ```Nanyang Technological University``` <img src="media/sg.png" width="20" align="center"/> (NTU)  
-🛠️ Wants to build ```fun, cool and interesting``` projects
+🛠️ Just wanna ```have fun``` and build ```cool things```
 </td>
 </tr>
 </table>
 
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=IAmGreyBunny&show_icons=true&theme=dracula">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmGreyBunny&layout=donut&theme=dracula">
+    </td>
+  </tr>
+</table>
