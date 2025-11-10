@@ -32,15 +32,15 @@
 </tr>
 </table>
 
-<table>
+<table style="vertical-align: top;">
   <tr>
-    <td>
+    <td style="vertical-align: top;">
       <h3>Contact</h3>
       LinkedIn: <a href="https://www.linkedin.com/in/tohks2001/">https://www.linkedin.com/in/tohks2001/</a> <br>
       Email (Work): tohks2001@gmail.com <br>
     </td>
     <td>
-      <img src="media/phone-call.gif" width="200" align="center"/>
+      <img src="media/phone-call.gif" width="150" align="center"/>
     </td>
   </tr>
 </table>
