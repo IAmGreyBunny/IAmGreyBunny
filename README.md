@@ -1,6 +1,6 @@
 ## Hi, I am Grey 👋
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="auto"><img src="media/anime-wave.gif" width="200"/></td>
@@ -24,9 +24,11 @@
 <img src="media/de.png" width="20" align="center"/>
 <img src="media/it.png" width="20" align="center"/> 
 <br>
+<br>
+💻 Computer Science Student at Nanyang Technological University(NTU) - Singapore  
+🛠️ Wants to build fun, cool and interesting projects
 </td>
 </tr>
-
 </table>
 
 
