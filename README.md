@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td width="400">
+        <td width="200">
             <p>
                 <img src="media/anime-wave.gif">
             </p>
