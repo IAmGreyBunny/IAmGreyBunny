@@ -1,35 +1,25 @@
 ## Hi, I am Grey 👋
 
 <table>
-<tr>
-
-<td width="200"><img src="media/anime-wave.gif"></td>
-<td width="1000" valign="top">
-
-**Age:** 24 <br>
-**Gender:** Male <br>
-**From:** 
-<img src="media/sg.png" width="20" align="center"/> / 
-<img src="media/vn.png" width="20" align="center"/>\
-**Based in:** <img src="media/sg.png" width="20" align="center"/>
-<br>
-<br>
-**Languages:** 
-<img src="media/gb.png" width="20" align="center"/>
-<img src="media/cn.png" width="20" align="center"/>
-<img src="media/vn.png" width="20" align="center"/> 
-<br>
-**Wants to learn:**
-<img src="media/jp.png" width="20" align="center"/>
-<img src="media/de.png" width="20" align="center"/>
-<img src="media/it.png" width="20" align="center"/> 
-<br>
-<br>
-💻 ```Computer Science Student``` at  ```Nanyang Technological University``` <img src="media/sg.png" width="20" align="center"/>  
-🛠️ Just wanna ```have fun``` and build ```cool things```
-
-</td>
-</tr>
+    <tr>
+        <td width="400">
+            <p>
+                <img src="media/anime-wave.gif">
+            </p>
+        </td>
+        <td width="800" valign="top">
+            <p>
+                <b>Age:</b> 24 <br>
+                <b>Gender:</b> Male <br>
+                <b>From:</b> <img src="media/sg.png" width="20" align="center"/> / <img src="media/vn.png" width="20" align="center"/> <br>
+                <b>Based in:</b> <img src="media/sg.png" width="20" align="center"/> <br>
+                <b>Languages:</b> <img src="media/gb.png" width="20" align="center"/> <img src="media/cn.png" width="20" align="center"/> <img src="media/vn.png" width="20" align="center"/> <br>
+                <b>Wants to learn:</b> <img src="media/jp.png" width="20" align="center"/> <img src="media/de.png" width="20" align="center"/> <img src="media/it.png" width="20" align="center"/> <br>
+                💻 <code>Computer Science Student</code> at  <code>Nanyang Technological University</code> <img src="media/sg.png" width="20" align="center"/> <br>
+                🛠️ Just wanna <code>have fun</code> and build <code>cool things</code>
+            </p> 
+        </td>
+    </tr>
 </table>
 
 <table style="vertical-align: top;" width="1000">
