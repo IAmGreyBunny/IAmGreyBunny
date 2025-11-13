@@ -3,8 +3,8 @@
 <table>
 <tr>
 
-<td width="20%"><img src="media/anime-wave.gif" width="200"/></td>
-<td width="80%" valign="top">
+<td width="200><img src="media/anime-wave.gif" width="200"/></td>
+<td width="1000" valign="top">
 
 **Age:** 24 <br>
 **Gender:** Male <br>
