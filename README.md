@@ -7,7 +7,7 @@
                 <img src="media/anime-wave.gif">
             </p>
         </td>
-        <td width="800" valign="top">
+        <td width="1000" valign="top">
             <p>
                 <b>Age:</b> 24 <br>
                 <b>Gender:</b> Male <br>
