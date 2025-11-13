@@ -87,3 +87,34 @@
         </td>
     </tr>
 </table>
+
+<table>
+    <tr>
+        <td width="1200">
+            <details>
+                <summary><h3>Hackathons</h3></summary>
+            </details>
+        </td>
+    </tr>
+    <tr>
+        <td width="1200">
+            <details>
+                <summary><h3>School Projects</h3></summary>
+            </details>
+        </td>
+    </tr>
+    <tr>
+        <td width="1200">
+            <details>
+                <summary><h3>Research</h3></summary>
+            </details>
+        </td>
+    </tr>
+    <tr>
+        <td width="1200">
+            <details>
+                <summary><h3>Personal Projects</h3></summary>
+            </details>
+        </td>
+    </tr>
+</table>
