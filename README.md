@@ -3,7 +3,7 @@
 <table>
 <tr>
 
-<td width="200><img src="media/anime-wave.gif" width="200"/></td>
+<td width="200"><img src="media/anime-wave.gif"></td>
 <td width="1000" valign="top">
 
 **Age:** 24 <br>
