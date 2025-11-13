@@ -1,10 +1,10 @@
 ## Hi, I am Grey 👋
 
-<table width="1000">
+<table>
 <tr>
 
-<td width="200"><img src="media/anime-wave.gif" width="200"/></td>
-<td width="800" valign="top">
+<td width="20%"><img src="media/anime-wave.gif" width="200"/></td>
+<td width="80%" valign="top">
 
 **Age:** 24 <br>
 **Gender:** Male <br>
