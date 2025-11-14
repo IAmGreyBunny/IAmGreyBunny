@@ -95,7 +95,7 @@
 <table>
     <tr>
         <td width="1200">
-            <img src="https://github-profile-trophy.vercel.app/?username=IAmGreyBunny&amp;theme=dracula&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="">
+            <img src="https://github-profile-trophy.vercel.app/?username=IAmGreyBunny&amp;theme=dracula&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt="">
         </td>
     </tr>
 </table>
