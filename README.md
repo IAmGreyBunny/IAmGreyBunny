@@ -92,7 +92,7 @@
     <tr>
         <td width="1200">
             <details>
-                <summary><h2 align="center">Hackathons</h2> <img src="media/typing.gif" width="75" align="center"></summary>
+                <summary><h2 align="center">Hackathons <img src="media/typing.gif" height="75" align="center"></h2></summary>
                 <a href="https://github.com/IAmGreyBunny/sogni_comic">Sogni-Comic</a><br>
                 <a href="https://github.com/IAmGreyBunny/SummerBuild2025">NTU SummerBuild 2025</a><br>
                 <a href="https://github.com/IAmGreyBunny/ICTCompetition">Huawei ICT Competition 2021-2022</a><br>
@@ -102,7 +102,7 @@
     <tr>
         <td width="1200">
             <details>
-                <summary><h2 align="center">School Projects</h2> <img src="media/studying.gif" width="75" align="center"></summary>
+                <summary><h2 align="center">School Projects <img src="media/studying.gif" height="75" align="center"></h2></summary>
                 <a href="https://github.com/IAmGreyBunny/SC2008-Labs">SC2008-Labs</a><br>
                 <a href="https://github.com/IAmGreyBunny/SC2006-CommuteBuddy">SC2006-CommuteBuddy</a><br>
                 <a href="https://github.com/IAmGreyBunny/SC2001-Labs">SC2001-Labs</a><br>
@@ -114,7 +114,7 @@
     <tr>
         <td width="1200">
             <details>
-                <summary><h2 align="center">Research</h2> <img src="media/hakase.gif" width="75" align="center"></summary>
+                <summary><h2 align="center">Research <img src="media/hakase.gif" height="75" align="center"></h2></summary>
                 <a href="https://github.com/IAmGreyBunny/URECA">URECA</a><br>
             </details>
         </td>
@@ -122,7 +122,7 @@
     <tr>
         <td width="1200">
             <details>
-                <summary><h2 align="center">Personal Projects</h2> <img src="media/anime-idea.gif" width="75" align="center"></summary>
+                <summary><h2 align="center">Personal Projects <img src="media/anime-idea.gif" height="75" align="center"></h2></summary>
                 <a href="https://github.com/IAmGreyBunny/google-image-webscraper">google-image-webscraper</a><br>
             </details>
         </td>
