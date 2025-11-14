@@ -95,9 +95,21 @@
             <details>
                 <summary><h2 align="center">Hackathons <img src="media/typing.gif" height="75" align="center"></h2></summary>
                 <table>
-                    <tr><td><a href="https://github.com/IAmGreyBunny/sogni_comic">Sogni-Comic</a></td></tr>
-                    <tr><td><a href="https://github.com/IAmGreyBunny/SummerBuild2025">NTU SummerBuild 2025</a></td></tr>
-                    <tr><td><a href="https://github.com/IAmGreyBunny/ICTCompetition">Huawei ICT Competition 2021-2022</a></td></tr>
+                    <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/sogni_comic">Sogni-Comic</a></td>
+                        <td>🏅Finalist</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/SummerBuild2025">NTU SummerBuild 2025</a></td>
+                        <td>🏅Best in Innovation</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/ICTCompetition">Huawei ICT Competition 2021-2022</a></td>
+                        <td>
+                            🥇First Prize - National <img src="media/sg.png" width="20" valign="center"/><br>
+                            🥉Third Prize - Global 🌏
+                        </td>
+                    </tr>
                 </table>
             </details>
         </td>
@@ -107,11 +119,26 @@
             <details>
                 <summary><h2 align="center">School Projects <img src="media/studying.gif" height="75" align="center"></h2></summary>
                 <table>
-                    <tr><td><a href="https://github.com/IAmGreyBunny/SC2008-Labs">SC2008-Labs</a></td></tr>
-                    <tr><td><a href="https://github.com/IAmGreyBunny/SC2006-CommuteBuddy">SC2006-CommuteBuddy</a></td></tr>
-                    <tr><td><a href="https://github.com/IAmGreyBunny/SC2001-Labs">SC2001-Labs</a></td></tr>
-                    <tr><td><a href="https://github.com/IAmGreyBunny/SC2002-FCS5-Grp5">SC2002-FCS5-Grp5</a></td></tr>
-                    <tr><td><a href="https://github.com/IAmGreyBunny/OnTrack">OnTrack</a></td></tr>
+                    <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/SC2008-Labs">SC2008-Labs</a></td>
+                        <td>NTU SC2008 - Networking</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/SC2006-CommuteBuddy">SC2006-CommuteBuddy</a></td>
+                        <td>NTU SC2006 - Software Engineering</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/SC2001-Labs">SC2001-Labs</a></td>
+                        <td>NTU SC2001 - Algorithm Design & Analysis</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/SC2002-FCS5-Grp5">SC2002-FCS5-Grp5</a></td>
+                        <td>NTU SC2002 - Object Oriented Programming</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/OnTrack">OnTrack</a></td>
+                        <td>NTU SP DCPE - Object Oriented Programming</td>
+                    </tr>
                 </table>
             </details>
         </td>
