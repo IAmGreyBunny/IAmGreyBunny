@@ -31,11 +31,11 @@
             <img src="media/phone-call.gif" width="200" align="center"/>
             <h3>Contact</h3>
             <p>
-                <img href="https://linkedin.com/in/tohks2001" src="https://img.shields.io/badge/LinkedIn-tohks2001-lightgrey?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"> <br>
-                <img href="mailto:tohks2001@gmail.com" src="https://img.shields.io/badge/Gmail-tohks2001@gmail.com-lightgrey?style=flat-square&logo=gmail&amp;logoColor=white&labelColor=D14836" alt="email"><br>
-                <img href="https://github.com/IAmGreyBunny" src="https://img.shields.io/badge/Follow-IAmGreyBunny-lightgrey?style=flat-square&logo=github&logoColor=white&labelColor=181717"><br>
-                <img src="https://img.shields.io/badge/Codeforces-IAmGreyBunny-lightgrey?style=flat-square&logo=codeforces&logoColor=white&labelColor=1F8ACB"><br>
-                <img src="https://img.shields.io/badge/LeetCode-IAmGreyBunny-lightgrey?style=flat-square&logo=leetcode&logoColor=white&labelColor=FFA116">
+                <a href="https://linkedin.com/in/tohks2001"><img src="https://img.shields.io/badge/LinkedIn-tohks2001-lightgrey?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"></a><br>
+                <a href="mailto:tohks2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-tohks2001@gmail.com-lightgrey?style=flat-square&logo=gmail&amp;logoColor=white&labelColor=D14836" alt="email"></a><br>
+                <a href="https://github.com/IAmGreyBunny"><img src="https://img.shields.io/badge/Follow-IAmGreyBunny-lightgrey?style=flat-square&logo=github&logoColor=white&labelColor=181717"></a><br>
+                <a href="https://codeforces.com/profile/IAmGreyBunny/"><img src="https://img.shields.io/badge/Codeforces-IAmGreyBunny-lightgrey?style=flat-square&logo=codeforces&logoColor=white&labelColor=1F8ACB"></a><br>
+                <a href="https://leetcode.com/iamgreybunny/"><img src="https://img.shields.io/badge/LeetCode-IAmGreyBunny-lightgrey?style=flat-square&logo=leetcode&logoColor=white&labelColor=FFA116"></a><br>
             </p>
         </td>
     </tr>
