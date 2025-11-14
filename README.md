@@ -102,7 +102,7 @@
 
 <table>
     <tr>
-        <td>
+        <td width="1200">
         <h2>Activity</h2>
             <img src="https://raw.githubusercontent.com/IAmGreyBunny/IAmGreyBunny/output/snake.svg" alt="Snake animation" />
         </td>
