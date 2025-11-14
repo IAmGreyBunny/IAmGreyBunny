@@ -107,7 +107,7 @@
                         <td><a href="https://github.com/IAmGreyBunny/ICTCompetition">Huawei ICT Competition 2021-2022</a></td>
                         <td>
                             🥇First Prize - National <img src="media/sg.png" width="20" valign="center"/><br>
-                            🥉Third Prize - Global 🌏
+                            🥉Third Prize - Global Finals 🌏
                         </td>
                     </tr>
                 </table>
