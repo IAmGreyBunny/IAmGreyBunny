@@ -15,24 +15,25 @@
                 <b>Based in:</b> <img src="media/sg.png" width="20" align="center"/> <br>
                 <b>Languages:</b> <img src="media/gb.png" width="20" align="center"/> <img src="media/cn.png" width="20" align="center"/> <img src="media/vn.png" width="20" align="center"/> <br>
                 <b>Wants to learn:</b> <img src="media/jp.png" width="20" align="center"/> <img src="media/de.png" width="20" align="center"/> <img src="media/it.png" width="20" align="center"/> <br>
-                💻 <code>Computer Science Student</code> at  <code>Nanyang Technological University</code> <img src="media/sg.png" width="20" align="center"/> <br>
-                🛠️ Just wanna <code>have fun</code> and build <code>cool things</code>
             </p> 
         </td>
     </tr>
 </table>
 
-<table style="vertical-align: top;" width="1000">
+<table valign="top" width="1000">
     <tr>
-        <td style="vertical-align: top;" width="800">
-            <h3>Contact</h3>
-            <p>
-                <img href="https://linkedin.com/in/tohks2001" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"> 
-                <img href="mailto:tohks2001@gmail.com" src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" alt="email">
-            </p>
+        <td valign="top"  width="800">
+            <h2>Info</h2>
+            💻 <code>Computer Science Student</code> at  <code>Nanyang Technological University</code> <img src="media/sg.png" width="20" align="center"/> <br>
+            🛠️ Just wanna <code>have fun</code> and build <code>cool things</code>
         </td>
         <td width="200">
             <img src="media/phone-call.gif" width="200" align="center"/>
+            <h3>Contact</h3>
+            <p>
+                <img href="https://linkedin.com/in/tohks2001" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"> <br>
+                <img href="mailto:tohks2001@gmail.com" src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" alt="email">
+            </p>
         </td>
     </tr>
 </table>
@@ -93,9 +94,11 @@
         <td width="1200">
             <details>
                 <summary><h2 align="center">Hackathons <img src="media/typing.gif" height="75" align="center"></h2></summary>
-                <a href="https://github.com/IAmGreyBunny/sogni_comic">Sogni-Comic</a><br>
-                <a href="https://github.com/IAmGreyBunny/SummerBuild2025">NTU SummerBuild 2025</a><br>
-                <a href="https://github.com/IAmGreyBunny/ICTCompetition">Huawei ICT Competition 2021-2022</a><br>
+                <table>
+                    <tr><td><a href="https://github.com/IAmGreyBunny/sogni_comic">Sogni-Comic</a></td></tr>
+                    <tr><td><a href="https://github.com/IAmGreyBunny/SummerBuild2025">NTU SummerBuild 2025</a></td></tr>
+                    <tr><td><a href="https://github.com/IAmGreyBunny/ICTCompetition">Huawei ICT Competition 2021-2022</a></td></tr>
+                </table>
             </details>
         </td>
     </tr>
@@ -103,11 +106,13 @@
         <td width="1200">
             <details>
                 <summary><h2 align="center">School Projects <img src="media/studying.gif" height="75" align="center"></h2></summary>
-                <a href="https://github.com/IAmGreyBunny/SC2008-Labs">SC2008-Labs</a><br>
-                <a href="https://github.com/IAmGreyBunny/SC2006-CommuteBuddy">SC2006-CommuteBuddy</a><br>
-                <a href="https://github.com/IAmGreyBunny/SC2001-Labs">SC2001-Labs</a><br>
-                <a href="https://github.com/IAmGreyBunny/SC2002-FCS5-Grp5">SC2002-FCS5-Grp5</a><br>
-                <a href="https://github.com/IAmGreyBunny/OnTrack">OnTrack</a><br>
+                <table>
+                    <tr><td><a href="https://github.com/IAmGreyBunny/SC2008-Labs">SC2008-Labs</a></td></tr>
+                    <tr><td><a href="https://github.com/IAmGreyBunny/SC2006-CommuteBuddy">SC2006-CommuteBuddy</a></td></tr>
+                    <tr><td><a href="https://github.com/IAmGreyBunny/SC2001-Labs">SC2001-Labs</a></td></tr>
+                    <tr><td><a href="https://github.com/IAmGreyBunny/SC2002-FCS5-Grp5">SC2002-FCS5-Grp5</a></td></tr>
+                    <tr><td><a href="https://github.com/IAmGreyBunny/OnTrack">OnTrack</a></td></tr>
+                </table>
             </details>
         </td>
     </tr>
@@ -115,7 +120,9 @@
         <td width="1200">
             <details>
                 <summary><h2 align="center">Research <img src="media/hakase.gif" height="75" align="center"></h2></summary>
-                <a href="https://github.com/IAmGreyBunny/URECA">URECA</a><br>
+                <table>
+                    <tr><td><a href="https://github.com/IAmGreyBunny/URECA">URECA</a></td></tr>
+                </table>
             </details>
         </td>
     </tr>
@@ -123,7 +130,9 @@
         <td width="1200">
             <details>
                 <summary><h2 align="center">Personal Projects <img src="media/anime-idea.gif" height="75" align="center"></h2></summary>
-                <a href="https://github.com/IAmGreyBunny/google-image-webscraper">google-image-webscraper</a><br>
+                <table>
+                    <tr><td><a href="https://github.com/IAmGreyBunny/google-image-webscraper">google-image-webscraper</a></td></tr>
+                </table>
             </details>
         </td>
     </tr>
