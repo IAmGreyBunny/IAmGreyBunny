@@ -98,6 +98,9 @@
             <img src="https://github-profile-trophy.vercel.app/?username=IAmGreyBunny&amp;theme=dracula&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt="">
         </td>
     </tr>
+</table>
+
+<table>
     <tr>
         <td>
         <h2>Activity</h2>
