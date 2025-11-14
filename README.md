@@ -58,38 +58,38 @@
         <td width="40%">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmGreyBunny&layout=donut&theme=dracula">
         </td>
-        <td>
+        <td valign="top">
             <p>
-                <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity"> 
-                <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&amp;logo=Raspberry-Pi" alt="Raspberry Pi"> 
-                <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"> 
-                <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"> 
-                <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow"> 
-                <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch"> 
-                <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
-                <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"> 
-                <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma"> 
-                <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> 
-                <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres"> 
-                <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"> 
-                <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase"> 
-                <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django"> 
-                <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&amp;logo=nVIDIA&amp;logoColor=green" alt="nVIDIA"> 
-                <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask"> 
-                <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"> 
-                <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> 
-                <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"> 
-                <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" alt="React Router"> 
-                <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite"> 
-                <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C"> 
-                <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#"> 
-                <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"> 
-                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"> 
-                <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> 
-                <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"> 
-                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> 
-                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> 
-                <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
+                <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&amp;logo=unity&amp;logoColor=white" alt="Unity"> 
+                <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&amp;logo=Raspberry-Pi" alt="Raspberry Pi"> 
+                <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"> 
+                <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"> 
+                <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow"> 
+                <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch"> 
+                <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
+                <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy"> 
+                <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma"> 
+                <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> 
+                <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="Postgres"> 
+                <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"> 
+                <img src="https://img.shields.io/badge/firebase-a08021?style=flat-square&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase"> 
+                <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django"> 
+                <img src="https://img.shields.io/badge/cuda-000000.svg?style=flat-square&amp;logo=nVIDIA&amp;logoColor=green" alt="nVIDIA"> 
+                <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask"> 
+                <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="NPM"> 
+                <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> 
+                <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"> 
+                <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&amp;logo=react-router&amp;logoColor=white" alt="React Router"> 
+                <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="Vite"> 
+                <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C"> 
+                <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&amp;logo=csharp&amp;logoColor=white" alt="C#"> 
+                <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"> 
+                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"> 
+                <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> 
+                <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP"> 
+                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> 
+                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5"> 
+                <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3">
             </p>
         </td>
     </tr>
