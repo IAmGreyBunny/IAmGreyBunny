@@ -98,6 +98,11 @@
             <img src="https://github-profile-trophy.vercel.app/?username=IAmGreyBunny&amp;theme=dracula&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt="">
         </td>
     </tr>
+    <tr>
+        <td>
+            <img src="https://raw.githubusercontent.com/IAmGreyBunny/IAmGreyBunny/output/snake.svg" alt="Snake animation" />
+        </td>
+    </tr>
 </table>
 
 <table>
