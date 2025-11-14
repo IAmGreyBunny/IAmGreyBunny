@@ -137,7 +137,7 @@
                     </tr>
                     <tr>
                         <td><a href="https://github.com/IAmGreyBunny/OnTrack">OnTrack</a></td>
-                        <td>NTU SP DCPE - Object Oriented Programming</td>
+                        <td>SP DCPE - Object Oriented Programming</td>
                     </tr>
                 </table>
             </details>
