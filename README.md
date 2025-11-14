@@ -26,16 +26,24 @@
             <h2>Info</h2>
             💻 <code>Computer Science Student</code> at  <code>Nanyang Technological University</code> <img src="media/sg.png" width="20" align="center"/> <br>
             🛠️ Just wanna <code>have fun</code> and build <code>cool things</code>
+            <h2>Hobby and Interests</h2>
+            🎮Video Games<br>
+            🎬Anime<br>
+            🍽️Food <br>
+            📜History <br>
+            🏯Culture <br>
+            🧳Travel<br>
         </td>
         <td width="200">
             <img src="media/phone-call.gif" width="200" align="center"/>
-            <h3>Contact</h3>
+            <h2>Contact</h2>
             <p>
                 <a href="https://linkedin.com/in/tohks2001"><img src="https://img.shields.io/badge/LinkedIn-tohks2001-lightgrey?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"></a><br>
                 <a href="mailto:tohks2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-tohks2001@gmail.com-lightgrey?style=flat-square&logo=gmail&amp;logoColor=white&labelColor=D14836" alt="email"></a><br>
-                <a href="https://github.com/IAmGreyBunny"><img src="https://img.shields.io/badge/Follow-IAmGreyBunny-lightgrey?style=flat-square&logo=github&logoColor=white&labelColor=181717"></a><br>
+                <a href="https://github.com/IAmGreyBunny"><img src="https://img.shields.io/badge/Github-IAmGreyBunny-lightgrey?style=flat-square&logo=github&logoColor=white&labelColor=181717"></a><br>
                 <a href="https://codeforces.com/profile/IAmGreyBunny/"><img src="https://img.shields.io/badge/Codeforces-IAmGreyBunny-lightgrey?style=flat-square&logo=codeforces&logoColor=white&labelColor=1F8ACB"></a><br>
                 <a href="https://leetcode.com/iamgreybunny/"><img src="https://img.shields.io/badge/LeetCode-IAmGreyBunny-lightgrey?style=flat-square&logo=leetcode&logoColor=white&labelColor=FFA116"></a><br>
+                <h6>Don't hesitate to reach out!</h6>
             </p>
         </td>
     </tr>
