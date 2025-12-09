@@ -53,10 +53,10 @@
 <table>
     <tr>
         <td>
-          <img src="https://nirzak-streak-stats.vercel.app/?user=IAmGreyBunny&amp;theme=dracula&amp;hide_border=false" alt="">
+          <img src="https://nirzak-streak-stats.vercel.app/?user=IAmGreyBunny&amp;theme=dracula&amp;hide_border=false" alt="Streak Stats">
         </td>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=IAmGreyBunny&show_icons=true&theme=dracula">
+          <img src="https://github-readme-stats.vercel.app/api?username=IAmGreyBunny&show_icons=true&theme=dracula" alt="Github Stats">
         </td>
     </tr>
 </table>
@@ -64,7 +64,7 @@
 <table>
     <tr>
         <td width="40%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmGreyBunny&layout=donut&theme=dracula">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmGreyBunny&layout=donut&theme=dracula" alt="Top Langs">
         </td>
         <td valign="top">
             <p>
@@ -106,7 +106,7 @@
 <table>
     <tr>
         <td width="1200">
-            <img src="https://github-profile-trophy.vercel.app/?username=IAmGreyBunny&amp;theme=dracula&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt="">
+            <img src="https://github-profile-trophy.vercel.app/?username=IAmGreyBunny&amp;theme=dracula&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt="Github Trophies">
         </td>
     </tr>
 </table>
