@@ -179,7 +179,7 @@
             <details>
                 <summary><h2 align="center">Research <img src="media/hakase.gif" height="75" align="center"></h2></summary>
                 <table>
-                    <tr><td><a href="https://github.com/IAmGreyBunny/URECA">URECA</a></td></tr>
+                    <tr><td><a href="https://github.com/IAmGreyBunny/URECA">URECA (Private for now)</a></td></tr>
                 </table>
             </details>
         </td>
