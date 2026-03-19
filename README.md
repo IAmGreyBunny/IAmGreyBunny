@@ -9,7 +9,7 @@
         </td>
         <td width="1000" valign="top">
             <p>
-                <b>Age:</b> 24 <br>
+                <b>Age:</b> 25 <br>
                 <b>Gender:</b> Male <br>
                 <b>From:</b> <img src="media/sg.png" width="20" align="center"/> / <img src="media/vn.png" width="20" align="center"/> <br>
                 <b>Based in:</b> <img src="media/sg.png" width="20" align="center"/> <br>
