@@ -152,7 +152,7 @@
                 <table>
                     <tr>
                         <td><a href="https://github.com/IAmGreyBunny/77933-Multimedia-Data-Management">77933-Multimedia-Data-Management</a></td>
-                        <td>UNIBO 77933-Multimedia-Data-Management</td>
+                        <td>UNIBO 77933 - Multimedia Data Management</td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/IAmGreyBunny/SC2008-Labs">SC2008-Labs</a></td>
