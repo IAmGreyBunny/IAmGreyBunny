@@ -25,6 +25,7 @@
         <td valign="top"  width="800">
             <h2>Info</h2>
             💻 <code>Computer Science Student</code> at  <code>Nanyang Technological University</code> <img src="media/sg.png" width="20" align="center"/> <br>
+            🌏 <code>Exchange Student</code> at  <code>Alma Mater Studiorum - Università di Bologna</code> <img src="media/it.png" width="20" align="center"/> <br>
             🛠️ Just wanna <code>have fun</code> and build <code>cool things</code>
             <h2>Hobby and Interests</h2>
             🎮Video Games<br>
