@@ -152,6 +152,10 @@
                 <summary><h2 align="center">School Projects <img src="media/studying.gif" height="75" align="center"></h2></summary>
                 <table>
                     <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/77933-Multimedia-Data-Management">95662-Introduction-To-Machine-Learning</a></td>
+                        <td>UNIBO 95662 - Introduction to Machine Learning</td>
+                    </tr>
+                    <tr>
                         <td><a href="https://github.com/IAmGreyBunny/77933-Multimedia-Data-Management">77933-Multimedia-Data-Management</a></td>
                         <td>UNIBO 77933 - Multimedia Data Management</td>
                     </tr>
