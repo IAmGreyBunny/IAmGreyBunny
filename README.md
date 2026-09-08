@@ -152,6 +152,10 @@
                 <summary><h2 align="center">School Projects <img src="media/studying.gif" height="75" align="center"></h2></summary>
                 <table>
                     <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/91250-Deep-Learning">91250-Deep-Learning</a></td>
+                        <td>UNIBO 91250 - Deep Learning</td>
+                    </tr>
+                    <tr>
                         <td><a href="https://github.com/IAmGreyBunny/93478-Computer-Vision">93478-Computer-Vision</a></td>
                         <td>UNIBO 93478 - Computer Vision</td>
                     </tr>
