@@ -115,15 +115,6 @@
 <table>
     <tr>
         <td width="1200">
-        <h2>Activity</h2>
-            <img src="https://raw.githubusercontent.com/IAmGreyBunny/IAmGreyBunny/output/snake.svg" alt="Snake animation" />
-        </td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <td width="1200">
             <details>
                 <summary><h2 align="center">Hackathons <img src="media/typing.gif" height="75" align="center"></h2></summary>
                 <table>
