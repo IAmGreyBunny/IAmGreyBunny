@@ -107,14 +107,6 @@
 <table>
     <tr>
         <td width="1200">
-            <img src="https://github-profile-trophy.vercel.app/?username=IAmGreyBunny&amp;theme=dracula&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt="Github Trophies">
-        </td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <td width="1200">
             <details>
                 <summary><h2 align="center">Hackathons <img src="media/typing.gif" height="75" align="center"></h2></summary>
                 <table>
