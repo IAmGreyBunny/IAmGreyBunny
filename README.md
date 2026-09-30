@@ -57,7 +57,7 @@
           <img src="https://nirzak-streak-stats.vercel.app/?user=IAmGreyBunny&amp;theme=dracula&amp;hide_border=false" alt="Streak Stats">
         </td>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=IAmGreyBunny&show_icons=true&theme=dracula" alt="Github Stats">
+          <img src="https://github-stats-extended.vercel.app/api?username=IAmGreyBunny&show_icons=true&theme=dracula" alt="Github Stats">
         </td>
     </tr>
 </table>
