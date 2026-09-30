@@ -54,7 +54,7 @@
 <table>
     <tr>
         <td>
-          <img src="https://nirzak-streak-stats.vercel.app/?user=IAmGreyBunny&amp;theme=dracula&amp;hide_border=false" alt="Streak Stats">
+          <img src="https://streak-stats.demolab.com/?user=IAmGreyBunny&amp;theme=dracula&amp;hide_border=false" alt="Streak Stats">
         </td>
         <td>
           <img src="https://github-stats-extended.vercel.app/api?username=IAmGreyBunny&show_icons=true&theme=dracula" alt="Github Stats">
@@ -65,7 +65,7 @@
 <table>
     <tr>
         <td width="40%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmGreyBunny&layout=donut&theme=dracula" alt="Top Langs">
+            <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IAmGreyBunny&layout=donut&theme=dracula" alt="Top Langs">
         </td>
         <td valign="top">
             <p>
