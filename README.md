@@ -135,6 +135,22 @@
                 <summary><h2 align="center">School Projects <img src="media/studying.gif" height="75" align="center"></h2></summary>
                 <table>
                     <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/SC4020-Lab2">NTU SC4020 - Data Analytics & Mining - Lab 2</a></td>
+                        <td>NTU SC4020 - Data Analytics & Mining - Lab 2</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/SC4002-Lab-Assignment">NTU SC4002 - Natural Language Processing - Lab 2</a></td>
+                        <td>NTU SC4002 - Natural Language Processing - Lab Assignment</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/SC3000-Lab1">NTU SC3000 - Introduction to Artificial Intelligence - Lab 1</a></td>
+                        <td>NTU SC3000 - Introduction to Artificial Intelligence - Lab 1</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/IAmGreyBunny/SC4020-Lab1">NTU SC4020 - Data Analytics & Mining - Lab 1</a></td>
+                        <td>NTU SC4020 - Data Analytics & Mining - Lab 1</td>
+                    </tr>
+                    <tr>
                         <td><a href="https://github.com/IAmGreyBunny/91250-Deep-Learning">91250-Deep-Learning</a></td>
                         <td>UNIBO 91250 - Deep Learning</td>
                     </tr>
