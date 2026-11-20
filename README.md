@@ -139,7 +139,7 @@
                         <td>NTU SC4020 - Data Analytics & Mining - Lab 2</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/IAmGreyBunny/SC4002-Lab-Assignment">NTU SC4002 - Natural Language Processing - Lab 2</a></td>
+                        <td><a href="https://github.com/IAmGreyBunny/SC4002-Lab-Assignment">NTU SC4002 - Natural Language Processing - Lab Assignment</a></td>
                         <td>NTU SC4002 - Natural Language Processing - Lab Assignment</td>
                     </tr>
                     <tr>
